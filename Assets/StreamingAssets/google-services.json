@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121992472237",
+    "firebase_url": "https://mrcrash-f9d8a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mrcrash-f9d8a",
+    "storage_bucket": "mrcrash-f9d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121992472237:android:b5bd4db4604f13ed600824",
+        "android_client_info": {
+          "package_name": "com.FourBstudio.MVP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121992472237-28o8cnugtnsi3qhouire99th2ln54a2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbhpdYsZ__puhEH7QinnFXro-EbG7eFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121992472237-28o8cnugtnsi3qhouire99th2ln54a2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
